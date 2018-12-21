@@ -1,2 +1,2 @@
 # git-github
-This is test file
+This is for testing purpose
